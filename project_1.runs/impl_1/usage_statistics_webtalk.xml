@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<webTalkData  fileName='usage_statistics_webtalk.xml'  majorVersion='1' minorVersion='0' timeStamp='Mon Dec 14 10:38:46 2020'>
+<webTalkData  fileName='usage_statistics_webtalk.xml'  majorVersion='1' minorVersion='0' timeStamp='Mon Dec 14 11:00:05 2020'>
 <section name="__ROOT__" level="0" order="1" description="">
  <section name="software_version_and_target_device" level="1" order="1" description="">
   <keyValuePair key="beta" value="FALSE" description="" />
   <keyValuePair key="build_version" value="3064766" description="" />
-  <keyValuePair key="date_generated" value="Mon Dec 14 10:38:45 2020" description="" />
+  <keyValuePair key="date_generated" value="Mon Dec 14 11:00:05 2020" description="" />
   <keyValuePair key="os_platform" value="WIN64" description="" />
   <keyValuePair key="product_version" value="Vivado v2020.2 (64-bit)" description="" />
   <keyValuePair key="project_id" value="1ca553ae46124c0dad90b9d5fda8057c" description="" />
-  <keyValuePair key="project_iteration" value="22" description="" />
+  <keyValuePair key="project_iteration" value="23" description="" />
   <keyValuePair key="random_id" value="6981daba96d450b089762e2509aba648" description="" />
   <keyValuePair key="registration_id" value="6981daba96d450b089762e2509aba648" description="" />
   <keyValuePair key="route_design" value="TRUE" description="" />
@@ -488,10 +488,10 @@
    <keyValuePair key="-verilog_define" value="default::[not_specified]" description="" />
   </section>
   <section name="usage" level="2" order="2" description="">
-   <keyValuePair key="elapsed" value="00:00:34s" description="" />
+   <keyValuePair key="elapsed" value="00:00:35s" description="" />
    <keyValuePair key="hls_ip" value="0" description="" />
-   <keyValuePair key="memory_gain" value="180.988MB" description="" />
-   <keyValuePair key="memory_peak" value="1269.516MB" description="" />
+   <keyValuePair key="memory_gain" value="183.020MB" description="" />
+   <keyValuePair key="memory_peak" value="1271.750MB" description="" />
   </section>
  </section>
  <section name="unisim_transformation" level="1" order="9" description="">
@@ -528,7 +528,7 @@
   <section name="gui_handlers" level="2" order="1" description="">
    <keyValuePair key="basedialog_cancel" value="2" description="" />
    <keyValuePair key="basedialog_ok" value="82" description="" />
-   <keyValuePair key="basedialog_yes" value="13" description="" />
+   <keyValuePair key="basedialog_yes" value="14" description="" />
    <keyValuePair key="cmdmsgdialog_ok" value="7" description="" />
    <keyValuePair key="cmdmsgdialog_open_messages_view" value="1" description="" />
    <keyValuePair key="filesetpanel_file_set_panel_tree" value="45" description="" />
@@ -552,16 +552,16 @@
    <keyValuePair key="pacommandnames_open_target_wizard" value="2" description="" />
    <keyValuePair key="pacommandnames_program_fpga" value="11" description="" />
    <keyValuePair key="pacommandnames_refresh_device" value="1" description="" />
-   <keyValuePair key="pacommandnames_run_bitgen" value="26" description="" />
+   <keyValuePair key="pacommandnames_run_bitgen" value="27" description="" />
    <keyValuePair key="pacommandnames_run_implementation" value="6" description="" />
    <keyValuePair key="pacommandnames_run_synthesis" value="10" description="" />
    <keyValuePair key="pacommandnames_save_project_as" value="1" description="" />
    <keyValuePair key="pacommandnames_set_target_ucf" value="1" description="" />
    <keyValuePair key="paviews_project_summary" value="4" description="" />
    <keyValuePair key="programdebugtab_open_target" value="9" description="" />
-   <keyValuePair key="programdebugtab_program_device" value="10" description="" />
+   <keyValuePair key="programdebugtab_program_device" value="11" description="" />
    <keyValuePair key="programdebugtab_refresh_device" value="6" description="" />
-   <keyValuePair key="programfpgadialog_program" value="20" description="" />
+   <keyValuePair key="programfpgadialog_program" value="21" description="" />
    <keyValuePair key="programfpgadialog_specify_bitstream_file" value="2" description="" />
    <keyValuePair key="projectnamechooser_choose_project_location" value="1" description="" />
    <keyValuePair key="rdicommands_custom_commands" value="1" description="" />
@@ -581,11 +581,11 @@
    <keyValuePair key="closeproject" value="1" description="" />
    <keyValuePair key="editdelete" value="3" description="" />
    <keyValuePair key="launchopentarget" value="2" description="" />
-   <keyValuePair key="launchprogramfpga" value="21" description="" />
+   <keyValuePair key="launchprogramfpga" value="22" description="" />
    <keyValuePair key="openhardwaremanager" value="6" description="" />
    <keyValuePair key="openrecenttarget" value="3" description="" />
    <keyValuePair key="refreshdevice" value="7" description="" />
-   <keyValuePair key="runbitgen" value="27" description="" />
+   <keyValuePair key="runbitgen" value="28" description="" />
    <keyValuePair key="runimplementation" value="17" description="" />
    <keyValuePair key="runsynthesis" value="20" description="" />
    <keyValuePair key="savefileproxyhandler" value="2" description="" />
