@@ -34,10 +34,10 @@ Cada cada switch representa um bit, e no total é como se fosse um vetor de 4 bi
 
 
 ![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/IMG_20201214_112525163.jpg)
-Valor 15 sendo representado nos displays.(foto com flash)
+Valor 15(1111) sendo representado nos displays. (foto com flash)
 
 ![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/IMG_20201214_112634466.jpg)
-Valor 9 sendo representado nos displays.(foto sem flash)
+Valor 9(1001) sendo representado nos displays. (foto sem flash)
 
 ## Links para o código:
 #### Main VHDL:
