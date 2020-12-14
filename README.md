@@ -24,36 +24,28 @@ Cada cada switch representa um bit, e no total é como se fosse um vetor de 4 bi
 
 
 ## Imagem do ambiente de desenvolvimento
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/Vivado.PNG)
+![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/ambiente.PNG)
 
 
 ## Circuito Digital Gerado
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/Schem.PNG)
+![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/Circuitogerado.PNG)
 
 ## Placa com o código rodando
 
 
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_214607844.jpg)
-Apenas RGB azul ligado, enquanto os leds normais alternam.
+![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/IMG_20201214_112525163.jpg)
+Valor 15 sendo representado nos displays.(foto com flash)
 
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_214643995.jpg)
-Apenas RGB vermelho ligado, enquanto os leds normais alternam.
-
-
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_214707031.jpg)
-Apenas RGB verde ligado, enquanto os leds normais alternam
-
-
-![repo-settings-image](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/images/IMG_20201116_210423955.jpg)
-2 cores ligadas dando a cor azul fraca no RGB, enquanto os leds normais alternam.
+![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/IMG_20201214_112634466.jpg)
+Valor 9 sendo representado nos displays.(foto sem flash)
 
 ## Links para o código:
 #### Main VHDL:
-[GitHub Pages](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/sources_1/new/Trabalho_1.vhd)
+[GitHub Pages](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/project_1.srcs/sources_1/new/decoder.vhd)
 
 
 #### XDC:
-[GitHub Pages](https://github.com/FabLJ/Led_RGB_VHDL/blob/master/Projeto/Trabalho_1_MicroII.srcs/constrs_1/new/Trabalho_1.xdc)
+[GitHub Pages](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/project_1.srcs/constrs_1/new/decoder_pins.xdc)
 
 
 
