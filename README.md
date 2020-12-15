@@ -39,6 +39,10 @@ Valor 15(1111) sendo representado nos displays. (foto com flash)
 ![repo-settings-image](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/Images/IMG_20201214_112634466.jpg)
 Valor 9(1001) sendo representado nos displays. (foto sem flash)
 
+
+## Link video
+https://drive.google.com/file/d/1DbujNn6qlq9A3qRo3TcRF0_5_rzK2dev/view?usp=sharing
+
 ## Links para o código:
 #### Main VHDL:
 [GitHub Pages](https://github.com/FabLJ/decoder_decimal_vhdl/blob/main/project_1.srcs/sources_1/new/decoder.vhd)
