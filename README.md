@@ -41,7 +41,7 @@ Valor 9(1001) sendo representado nos displays. (foto sem flash)
 
 
 ## Link video
-https://drive.google.com/file/d/1DbujNn6qlq9A3qRo3TcRF0_5_rzK2dev/view?usp=sharing
+https://drive.google.com/file/d/1DbujNn6qlq9A3qRo3TcRF0_5_rzK2dev/view?usp=sharing 
 
 ## Links para o código:
 #### Main VHDL:
